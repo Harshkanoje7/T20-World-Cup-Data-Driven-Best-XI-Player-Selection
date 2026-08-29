@@ -4,7 +4,39 @@ This repository contains a **Power BI dashboard project** focused on analyzing T
 
 ## 📊 Overview
 
-### 1. 🏏 Batting Analysis
+This project analyzes T20 cricket players based on their batting, bowling, and overall performance.
+
+### Key Analysis Areas
+
+- 🏏 Batting Performance
+- ⚡ Middle Order & Finisher Analysis
+- 🔄 All-Rounder Analysis
+- 🎯 Specialist Fast Bowler Analysis
+- 🏆 Data-Driven Final XI Selection
+
+## 📸 Dashboard Preview
+
+### 🏏 Player Analysis – Batting
+
+![Batting Analysis](images/batting-analysis.png)
+
+### ⚡ Middle Order & Finisher Analysis
+
+![Middle Order Analysis](images/middle-order.png)
+
+### 🔄 All-Rounder Analysis
+
+![All Rounder Analysis](images/all-rounder.png)
+
+### 🎯 Specialist Fast Bowler Analysis
+
+![Fast Bowler Analysis](images/fast-bowler.png)
+
+### 🏆 Final XI Selection
+
+![Final XI](images/final-xi.png)
+
+## 🏏 Batting Analysis
 
 This report provides insights into the performance of top-performing T20 batsmen.
 
@@ -16,7 +48,7 @@ This report provides insights into the performance of top-performing T20 batsmen
 - Comparison of different batting roles
 - Identification of high-performing batsmen
 
-### 2. ⚡ Middle Order & Finisher Analysis
+## ⚡ Middle Order & Finisher Analysis
 
 This report focuses on players who contribute during the middle and finishing stages of an innings.
 
@@ -27,7 +59,7 @@ This report focuses on players who contribute during the middle and finishing st
 - Comparison of finishing abilities
 - Identification of high-impact middle-order players
 
-### 3. 🔄 All-Rounder Analysis
+## 🔄 All-Rounder Analysis
 
 This report evaluates players who contribute with both bat and ball.
 
@@ -39,7 +71,7 @@ This report evaluates players who contribute with both bat and ball.
 - Bowling strike rate
 - Comparison of overall all-round performance
 
-### 4. 🎯 Specialist Fast Bowler Analysis
+## 🎯 Specialist Fast Bowler Analysis
 
 This report focuses on specialist fast bowlers and their bowling performance.
 
@@ -78,18 +110,6 @@ The dashboard uses the following metrics for player evaluation:
 - **Bowling Average**
 - **Bowling Strike Rate**
 - **Dot Ball %**
-
-## 📸 Dashboard Preview
-
-### Player Analysis – Batting
-
-### Middle Order & Finisher Analysis
-
-### All-Rounder Analysis
-
-### Specialist Fast Bowler Analysis
-
-### Final XI Selection
 
 ## 🚀 Usage
 

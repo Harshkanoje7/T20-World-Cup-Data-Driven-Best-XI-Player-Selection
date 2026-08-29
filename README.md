@@ -1,140 +1,223 @@
 # 🏏 T20 Match Analysis | Data-Driven Best XI Selection
 
-This repository contains a **Power BI dashboard project** focused on analyzing T20 cricket player performances and selecting a **data-driven Final XI**. The dashboard evaluates batting, bowling, and all-round performance using key performance metrics to identify the most impactful players.
+This repository contains a **Power BI dashboard project** focused on analyzing T20 cricket player performances and selecting a **data-driven Final Playing XI**.
+
+The dashboard evaluates players across different roles such as **Power Hitters, Middle Order, Finishers, All-Rounders, and Fast Bowlers** using key batting and bowling performance metrics.
+
+---
 
 ## 📊 Overview
 
 This project analyzes T20 cricket players based on their batting, bowling, and overall performance.
 
-### Key Analysis Areas
+### 🔍 Analysis Covered
 
-- 🏏 Batting Performance
-- ⚡ Middle Order & Finisher Analysis
+- ⚡ Power Hitter Analysis
+- 🏏 Middle Order Analysis
+- 🔥 Finisher Analysis
 - 🔄 All-Rounder Analysis
 - 🎯 Specialist Fast Bowler Analysis
-- 🏆 Data-Driven Final XI Selection
+- 🏆 Final Playing XI Selection
 
-## 📸 Dashboard Preview
+---
 
-### 🏏 Player Analysis – Batting
+# 📸 Dashboard Preview
 
-![Batting Analysis](images/batting-analysis.png)
+## ⚡ Power Hitter Analysis
 
-### ⚡ Middle Order & Finisher Analysis
+<img src="./T20%20Match%20Analysis%20Power_Hitter.jpg" width="900">
 
-![Middle Order Analysis](images/middle-order.png)
+Analysis of high-impact batsmen based on:
 
-### 🔄 All-Rounder Analysis
+- Batting Average
+- Strike Rate
+- Average Balls Faced
+- Boundary Percentage
 
-![All Rounder Analysis](images/all-rounder.png)
+---
 
-### 🎯 Specialist Fast Bowler Analysis
+## 🏏 Middle Order Analysis
 
-![Fast Bowler Analysis](images/fast-bowler.png)
+<img src="./T20%20Match%20Analysis%20Middle_order.jpg" width="900">
 
-### 🏆 Final XI Selection
+Analysis of middle-order players based on:
 
-![Final XI](images/final-xi.png)
+- Runs
+- Batting Average
+- Strike Rate
+- Balls Faced
+- Boundary Percentage
 
-## 🏏 Batting Analysis
+---
 
-This report provides insights into the performance of top-performing T20 batsmen.
+## 🔥 Finisher Analysis
 
-- Total runs scored by players
-- Batting average and strike rate analysis
-- Average balls faced
-- Boundary percentage comparison
-- Analysis of batting positions
-- Comparison of different batting roles
-- Identification of high-performing batsmen
+<img src="./T20%20Match%20Analysis%20Finishers.jpg" width="900">
 
-## ⚡ Middle Order & Finisher Analysis
+Evaluation of finishing players based on:
 
-This report focuses on players who contribute during the middle and finishing stages of an innings.
+- Runs
+- Batting Average
+- Strike Rate
+- Boundary Percentage
+- Average Balls Faced
 
-- Batting average
-- Strike rate
-- Average balls faced
-- Boundary percentage
-- Comparison of finishing abilities
-- Identification of high-impact middle-order players
+---
 
 ## 🔄 All-Rounder Analysis
 
-This report evaluates players who contribute with both bat and ball.
+<img src="./T20%20Match%20Analysis%20All_rounder.jpg" width="900">
 
-- Runs scored
-- Batting average
-- Batting strike rate
-- Wickets taken
-- Bowling economy
-- Bowling strike rate
-- Comparison of overall all-round performance
+Analysis of players who contribute with both bat and ball.
+
+Key metrics include:
+
+- Runs
+- Batting Average
+- Strike Rate
+- Wickets
+- Economy
+- Bowling Strike Rate
+- Bowling Average
+
+---
 
 ## 🎯 Specialist Fast Bowler Analysis
 
-This report focuses on specialist fast bowlers and their bowling performance.
+<img src="./T20%20Match%20Analysis%20Fats_Bowlers.jpg" width="900">
 
-- Wickets taken
-- Runs conceded
-- Economy rate
-- Bowling average
-- Bowling strike rate
-- Dot-ball percentage
-- Comparison of fast-bowling performances
+Comparison of specialist fast bowlers using:
 
-## 🏆 Final XI Selection
+- Wickets
+- Runs Conceded
+- Economy Rate
+- Bowling Average
+- Bowling Strike Rate
+- Dot Ball Percentage
 
-The dashboard combines multiple performance metrics to create a **data-driven Final XI**.
+---
 
-The selected players are evaluated based on their individual roles and overall performance, including:
+## 🏆 Final Playing XI
+
+<img src="./T20%20Match%20Analysis%20Playing%2011.jpg" width="900">
+
+The Final Playing XI is selected using a combination of player performance metrics and playing roles.
+
+The selection includes:
 
 - Opening Batters
 - Top Order Batters
-- Middle Order Batters
 - Wicketkeeper Batters
+- Middle Order Batters
 - All-Rounders
 - Specialist Bowlers
 
-## 📈 Key Performance Metrics
+---
 
-The dashboard uses the following metrics for player evaluation:
+# 📈 Key Performance Metrics
+
+### 🏏 Batting Metrics
 
 - **Runs**
 - **Batting Average**
 - **Strike Rate**
-- **Balls Faced**
-- **Boundary %**
+- **Average Balls Faced**
+- **Boundary Percentage**
+- **Batting Position**
+
+### 🎯 Bowling Metrics
+
 - **Wickets**
+- **Runs Conceded**
 - **Economy Rate**
 - **Bowling Average**
 - **Bowling Strike Rate**
-- **Dot Ball %**
+- **Dot Ball Percentage**
 
-## 🚀 Usage
+---
+
+# 👥 Player Roles
+
+### ⚡ Power Hitters
+
+Players evaluated based on their ability to score quickly with a high strike rate and strong boundary percentage.
+
+### 🏏 Middle Order
+
+Players who provide stability and scoring ability during the middle overs.
+
+### 🔥 Finishers
+
+Players evaluated based on their ability to score quickly and make an impact during the final stages of an innings.
+
+### 🔄 All-Rounders
+
+Players who provide contributions with both batting and bowling.
+
+### 🎯 Fast Bowlers
+
+Specialist bowlers evaluated using wickets, economy, bowling average, strike rate, and dot-ball percentage.
+
+---
+
+# 🏆 Data-Driven Final XI
+
+The dashboard combines performance metrics across different player roles to create a balanced **Final Playing XI**.
+
+The selection is based on measurable performance indicators rather than only subjective judgment.
+
+---
+
+# 🚀 Usage
 
 This dashboard can be used to:
 
 - Analyze T20 cricket player performance.
-- Compare batting and bowling statistics.
-- Identify high-performing players.
-- Evaluate players based on their playing roles.
-- Build a balanced Final XI using data-driven insights.
+- Compare players across different roles.
+- Identify high-performing batsmen.
+- Identify effective bowlers.
+- Evaluate all-rounder contributions.
 - Compare batting and bowling efficiency.
-- Support objective player-selection decisions.
-
-## 🛠️ Tools & Technologies
-
-- **Power BI**
-- **DAX**
-- **Data Visualization**
-- **Data Analysis**
-- **Cricket Performance Analytics**
-
-## 🎯 Project Objective
-
-The main objective of this project is to use **Power BI and data analytics** to evaluate T20 cricket players and create a **data-driven Final XI** based on measurable performance indicators.
+- Build a balanced Playing XI.
+- Support data-driven player selection.
 
 ---
 
-⭐ If you found this project useful, consider giving this repository a star!
+# 🛠️ Tools & Technologies
+
+- **Microsoft Power BI**
+- **DAX**
+- **Data Analysis**
+- **Data Visualization**
+- **Cricket Performance Analytics**
+
+---
+
+# 🎯 Project Objective
+
+The main objective of this project is to use **Power BI and data analytics** to evaluate T20 cricket players and identify the best-performing players across different roles.
+
+The final goal is to create a **balanced, data-driven Playing XI** using measurable batting and bowling performance indicators.
+
+---
+
+# 📌 Key Insights
+
+The dashboard helps answer questions such as:
+
+- Who are the most effective power hitters?
+- Which players perform well in the middle order?
+- Who are the best finishers?
+- Which all-rounders provide the best overall contribution?
+- Which fast bowlers have the best bowling performance?
+- Which players deserve a place in the Final Playing XI?
+
+---
+
+## ⭐ Conclusion
+
+This project demonstrates how **data analytics and Power BI** can be used in cricket to transform player statistics into meaningful insights and support objective team-selection decisions.
+
+---
+
+⭐ **If you found this project useful, consider giving the repository a star!**
